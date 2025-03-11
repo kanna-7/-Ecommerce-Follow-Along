@@ -48,3 +48,7 @@ Completed foundation for your E-Commerce Application.
 
 * created the **Signup page* in React and added code for Signup backend also.
 * Added the **Sign up page* validation in (Signup,login).
+
+# Milestone 6: Password Hashing By Using Bcryptjs
+* Added the **password encryption* in backend signup page.
+* Added comparision for checking password is correct or not in login backend.
