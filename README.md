@@ -21,3 +21,30 @@ Whether you're a beginner or intermediate developer, this project will help you 
 - *Database*: MongoDB
 - *Authentication*: JWT (JSON Web Tokens) for secure authentication
 - *Payment Gateway Integration*: Stripe (optional)
+
+# Milestone 1
+
+Completed foundation for your E-Commerce Application.
+
+# Milestone 2
+
+* Separate folders for frontend and backend.
+* A functional login page in the frontend.
+* Completed setting for tailwind-css.
+
+# Milestone 3
+
+* Organized the *backend folder structure* for scalability
+* Connected the *server to mongoDB* using Mongoose
+* Implemented *error-handling middleware* for API stability .
+
+# Milestone 4
+
+* Created the *User Model* in Mongoose to define the user data structure.
+* developed the *User Controller* to manage user authenticsation (signup, login).
+* Implemented *Multer for file handling* allowing user profile and product image uploads.
+
+# Milestone 5
+
+* created the **Signup page* in React and added code for Signup backend also.
+* Added the **Sign up page* validation in (Signup,login).
